@@ -1,0 +1,27 @@
+C:\Users\комп\source\repos\vm_lab_1\bin\Debug\vm_lab_1.exe.config
+C:\Users\комп\source\repos\vm_lab_1\bin\Debug\vm_lab_1.exe
+C:\Users\комп\source\repos\vm_lab_1\bin\Debug\vm_lab_1.pdb
+C:\Users\комп\source\repos\vm_lab_1\obj\Debug\vm_lab_1.csprojAssemblyReference.cache
+C:\Users\комп\source\repos\vm_lab_1\obj\Debug\vm_lab_1.Form1.resources
+C:\Users\комп\source\repos\vm_lab_1\obj\Debug\vm_lab_1.Properties.Resources.resources
+C:\Users\комп\source\repos\vm_lab_1\obj\Debug\vm_lab_1.csproj.GenerateResource.cache
+C:\Users\комп\source\repos\vm_lab_1\obj\Debug\vm_lab_1.exe
+C:\Users\комп\source\repos\vm_lab_1\obj\Debug\vm_lab_1.pdb
+G:\учеба\visual studio\vm_1\vm_lab_1\bin\Debug\vm_lab_1.exe.config
+G:\учеба\visual studio\vm_1\vm_lab_1\bin\Debug\vm_lab_1.exe
+G:\учеба\visual studio\vm_1\vm_lab_1\bin\Debug\vm_lab_1.pdb
+G:\учеба\visual studio\vm_1\vm_lab_1\obj\Debug\vm_lab_1.csprojAssemblyReference.cache
+G:\учеба\visual studio\vm_1\vm_lab_1\obj\Debug\vm_lab_1.Form1.resources
+G:\учеба\visual studio\vm_1\vm_lab_1\obj\Debug\vm_lab_1.Properties.Resources.resources
+G:\учеба\visual studio\vm_1\vm_lab_1\obj\Debug\vm_lab_1.csproj.GenerateResource.cache
+G:\учеба\visual studio\vm_1\vm_lab_1\obj\Debug\vm_lab_1.exe
+G:\учеба\visual studio\vm_1\vm_lab_1\obj\Debug\vm_lab_1.pdb
+G:\учеба\visual studio\vm — копия\bin\Debug\vm_lab_1.exe.config
+G:\учеба\visual studio\vm — копия\bin\Debug\vm_lab_1.exe
+G:\учеба\visual studio\vm — копия\bin\Debug\vm_lab_1.pdb
+G:\учеба\visual studio\vm — копия\obj\Debug\vm_lab_1.csprojAssemblyReference.cache
+G:\учеба\visual studio\vm — копия\obj\Debug\vm_lab_1.Form1.resources
+G:\учеба\visual studio\vm — копия\obj\Debug\vm_lab_1.Properties.Resources.resources
+G:\учеба\visual studio\vm — копия\obj\Debug\vm_lab_1.csproj.GenerateResource.cache
+G:\учеба\visual studio\vm — копия\obj\Debug\vm_lab_1.exe
+G:\учеба\visual studio\vm — копия\obj\Debug\vm_lab_1.pdb
